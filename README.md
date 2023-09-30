@@ -17,10 +17,10 @@
 
 <p align="center">
  <a href="https://fivemdevelopment.myshopify.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="ghost" />
+  <img src="https://img.shields.io/badge/Website-252626?style=for-the-badge&logo=medium&logoColor=white" alt="ghost" />
  </a>
- <a href="https://linkedin.com/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ghost"/>
+ <a href="https://fivemdevelopment.tebex.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Tebex-0077B5?style=for-the-badge&logo=tebex&logoColor=white" alt="ghost"/>
  </a>
  <!-- <a href="https://dev.to/Gh0st102" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="ghost" />
@@ -28,11 +28,11 @@
  <a href="https://x.com/FM_Networks" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/error" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="ghost" />
+ <a href="https://fivemdevelopment.myshopify.com/" target="_blank">
+  <img src="https://img.shields.io/badge/shopify-17bd54?style=for-the-badge&logo=shopify&logoColor=white" alt="ghost" />
  </a> 
- <a href="https://facebook.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="ghost"  />
+ <a href="https://discord.gg/z32cZuVFPu" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-252626?&style=for-the-badge&logo=discord&logoColor=white" alt="ghost"  />
   </a> 
 </p>
 <br />
@@ -80,10 +80,10 @@
 <br/>
 
 ## Top Open Source -
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=Gh0st102&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Gh0st102/web-projects)
-[![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=Gh0st102&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Gh0st102/al-folio)
+<!-- [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=Gh0st102&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Gh0st102/web-projects) -->
+<!-- [![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=Gh0st102&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Gh0st102/al-folio) -->
 [![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=Gh0st102&repo=Gh0st102&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Gh0st102/Gh0st102)
-[![Al Siam Teminal](https://github-readme-stats.vercel.app/api/pin/?username=Gh0st102&repo=Gh0st102.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Gh0st102/Gh0st102.github.io)
+<!-- [![Al Siam Teminal](https://github-readme-stats.vercel.app/api/pin/?username=Gh0st102&repo=Gh0st102.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Gh0st102/Gh0st102.github.io) -->
 
 <p align="left">
   <a href="https://github.com/Gh0st102?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
