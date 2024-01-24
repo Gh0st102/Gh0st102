@@ -2,8 +2,10 @@
 <h3 align="center">
         <samp>&gt; Hey There, my name is Ghost
                 <!-- <b><a target="_blank" href="https://fivemdevelopment.myshopify.com/">Ghost</a></b> -->
-                <img src="https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow" alt="ghost logo" />
         </samp>
+               </span> 
+               <img src="https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow" alt="ghost logo" />
+               <span>
 </h3>
 
 
