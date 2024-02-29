@@ -9,7 +9,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a software developer from <b>Ireland</b> 」
+    「 I am a junior software developer from <b>Ireland</b> 」
     <br>
     <br>
   </samp>
